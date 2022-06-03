@@ -17,3 +17,9 @@ Exercício 1
 - Lê um valor
 - Exibe tipo da variável
 - Realiza comparações com método is
+
+Exercício 2
+- Exibe a rdem de precedência de uma expressão
+- Lê um valor
+- Exibe o antecessor e sucessor
+- Exibe o dobro, tríplo e a raís quadrada do valor

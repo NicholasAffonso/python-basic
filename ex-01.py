@@ -6,7 +6,7 @@ coisa = input('Digite alguma coisa: ')
 
 print('\n', type(coisa), '\n')
 
-print('---------------{}---------------'.format(coisa))
+print('{:-^42}'.format(coisa))
 
 # Imprimpe comparando com o método is
 

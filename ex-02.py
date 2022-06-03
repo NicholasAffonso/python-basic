@@ -14,7 +14,7 @@ val = int(input('Digite um alor: '))
 
 print('\nAntecessor = {} \nSucessor = {}'.format(val - 1, val + 1))
 
-# Exibe dobro, triplo e raiz quadrada
+# Exibe o dobro, triplo e raiz quadrada do valor
 
 print('\nO dobro de {} é {}'.format(val, val * 2))
 print('O triplo de {} é {}'.format(val, val * 3))

@@ -18,4 +18,4 @@ print('\nAntecessor = {} \nSucessor = {}'.format(val - 1, val + 1))
 
 print('\nO dobro de {} é {}'.format(val, val * 2))
 print('O triplo de {} é {}'.format(val, val * 3))
-print('A raíz quadrada de {} é {:.2f}'.format(val, val ** (1/2)))
+print('A raiz quadrada de {} é {:.2f}'.format(val, val ** (1/2)))
